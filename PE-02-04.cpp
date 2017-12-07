@@ -1,5 +1,5 @@
 /**
-  * Programming Exercise 4
+  * Programming Exercise 2.4
   * C++ Primer Plus, 6th Edition
   * @author Russell Folk
   *
