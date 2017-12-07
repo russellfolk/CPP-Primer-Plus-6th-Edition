@@ -30,5 +30,6 @@ int main()
 
 int years_to_months(int years)
 {
-	return years * 12;
+  int months = {years * 12};
+	return months;
 }

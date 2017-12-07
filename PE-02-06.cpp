@@ -37,5 +37,6 @@ int main()
 
 double light_years_to_astronomical_units(double light_years)
 {
-	return light_years * 63240.0;
+  double astronomical_units = {light_years * 63240.0};
+	return astronomical_units;
 }

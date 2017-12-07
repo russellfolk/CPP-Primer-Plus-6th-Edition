@@ -33,6 +33,6 @@ int main()
 
 int celsius_to_fahrenheit(int celsius)
 {
-	double fahrenheit = 1.8 * celsius + 32.0;
+	double fahrenheit = {1.8 * celsius + 32.0};
 	return fahrenheit;
 }

@@ -8,7 +8,7 @@
 
 #include <iostream>
 
-const int FURLONGS_TO_YARDS = 220;
+const int FURLONGS_TO_YARDS = {220};
 
 int main()
 {
